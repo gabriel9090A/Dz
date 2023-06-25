@@ -24,4 +24,18 @@ h1{
 }
 .h7{
     background-color: chocolate;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.paragraph-7{
+    text-align: center;
+    background-color: cornsilk;
+}
+div{
+    display: grid;
+    place-items: center;
+}
+.exitalic{
+    text-align: center;
+    background-color: cornsilk
 }
